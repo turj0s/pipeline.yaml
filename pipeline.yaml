@@ -33,4 +33,5 @@ spec:
           workspace: shared-workspace
       params:
         - name: IMAGE
-          value: icr.io/<YOUR_NAMESPACE>/tax-calculator:1.0
+          value: icr.io/https://github.com/turj0s/pipeline.yaml/tax-calculator:1.0
+
